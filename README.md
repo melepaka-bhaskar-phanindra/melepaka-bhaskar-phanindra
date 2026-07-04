@@ -1,17 +1,13 @@
 ### Hi there 👋 I'm Bhaskar
-
 💻 **Learning**: Python, Web Development
 🚀 **Goal**: Looking for Internships & Opportunities
 📍 **Location**: Machilipatnam, Andhra Pradesh
-
-### About Me
+###About Me
 I'm currently learning coding and building projects. 
 Open to connect and learn new things!
-
-### Skills
+###Skills
 - Python
 - HTML, CSS
 - Git & GitHub
-
-### Connect with me
+###Connect with me
 Let's connect and grow together!
