@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋 I'm Bhaskar
 
-<!--
-**melepaka-bhaskar-phanindra/melepaka-bhaskar-phanindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Learning**: Python, Web Development
+🚀 **Goal**: Looking for Internships & Opportunities
+📍 **Location**: Machilipatnam, Andhra Pradesh
 
-Here are some ideas to get you started:
+### About Me
+I'm currently learning coding and building projects. 
+Open to connect and learn new things!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Python
+- HTML, CSS
+- Git & GitHub
+
+### Connect with me
+Let's connect and grow together!
